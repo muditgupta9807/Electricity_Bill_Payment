@@ -19,7 +19,7 @@ public class calculation_bill extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_calculation_bill);
-        /*Integer fixed=150;
+        Integer fixed=150;
         Double bill=0.0;
         EditText old_reading;
         EditText new_reading;
@@ -55,7 +55,7 @@ public class calculation_bill extends AppCompatActivity {
                 info.setText("Your Outstanding bill is "+ finalBill);
 
             }
-        });*/
+        });
 
 
     }
